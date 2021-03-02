@@ -5,4 +5,4 @@ install jenkins
 add pulgins
 
 javac HelloWorld.java
-java HelloWorld
+java HelloWorld 
